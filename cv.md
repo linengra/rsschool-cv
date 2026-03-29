@@ -7,7 +7,6 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>First name last name</h1>
 <h1>First name last name</h1>
     <p>Lev Yatskevich</p>
     <h1>Contact information</h1>
