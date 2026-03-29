@@ -1,8 +1,16 @@
-1)Lev Yatskevich
-2)Gmail: ylev6205@gmail.com
-3)My main goal here is to learn JS. My strong points include a strong desire to understand everything I don't understand and to acquire new skills.
-4)As for skills, I know C#
-5)I can't provide code examples
-6)No work experience
-7)Basic general education
-8)English proficiency level: A2-B1
+<h1>First name last name</h1>
+    <p>Lev Yatskevich</p>
+    <h1>Contact information</h1>
+    <p>Gmail: ylev6205@gmail.com</p>
+    <h1>Brief self-introduction</h1>
+    <p>y main goal here is to learn JavaScript and HTML. My strong points include a strong desire to understand everything I don't understand and to acquire new skills.</p>
+    <h1>Skills</h1>
+    <p>As for skills, I know C#</p>
+    <h1>Code Examples</h1>
+    <p>I can't provide code examples</p>
+    <h1>Work Experience</h1>
+    <p>No work experience</p>
+    <h1>Education</h1>
+    <p>Basic general education</p>
+    <h1>English Language</h1>
+    <p>English proficiency level: A2-B1</p>
