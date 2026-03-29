@@ -1,1 +1,1 @@
-https://linengra.github.io/rsschool-cv/cv.md
+https://linengra.github.io/rsschool-cv/
